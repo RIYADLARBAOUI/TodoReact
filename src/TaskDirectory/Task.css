@@ -1,0 +1,19 @@
+
+
+
+.item{
+    color:black;
+    width: 100%;
+    height:20%;
+    background-color: whitesmoke;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.action{
+    background-color: transparent;
+}
